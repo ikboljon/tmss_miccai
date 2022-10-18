@@ -1,0 +1,24 @@
+_target_: src.models.deepmtlr_model.DEEP_MTLR
+
+model: "UNETR"
+dense_factor : 2 #Factor to multiply width of fc layer.
+n_dense : 2   #Number of fc layers.
+dropout : 0.2
+C1 : 100 #Regularization term for MTLR backprop.
+lr : 4e-3
+weight_decay: 0.01
+time_bins: 14
+loss_gamma: 0.3
+
+#CNN
+k1 : 3
+k2 : 5
+
+step: 50
+
+#ViT
+patch_size : 8
+hidden_size : 768
+mlp_dim : 1024
+num_layers : 6
+num_heads : 8

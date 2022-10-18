@@ -1,0 +1,16 @@
+_target_: src.datamodules.hecktor_datamodule.HECKTORDataModule
+
+
+root_dir: ${original_work_dir}
+data_dir: ${data_dir} # data_dir is specified in config.yaml
+cache_dir: ${data_dir}/cropped808048 #added the slash
+Fold: 1
+patch_sz: 80
+batch_size: 16
+dataset_mean: 0.1209 
+dataset_std: 0.7184
+#train_val_test_split: [176, 24, 24]
+num_workers: 12
+pin_memory: True
+
+time_bins_data: ${model.time_bins}
