@@ -24,5 +24,10 @@ When oncologists estimate cancer patient survival, they rely on multimodal data.
 
 
 ## 📌&nbsp;&nbsp;Architecture
-![alt text](https://github.com/ikboljon/tmss_miccai/blob/main/TMSS_arch.png?raw=true)
+![alt text](https://github.com/ikboljon/tmss_miccai/blob/master/TMSS_updated.png?raw=true)
 **Figure 1.** An illustration of the proposed TMSS architecture and the multimodal training strategy. TMSS linearly projects EHR and multimodal images into a feature vector and feeds it into a Transformer encoder. The CNN decoder is fed with the input images, skip connection outputs at different layers, and the final layer output to perform the segmentation, whereas the prognostic end utilizes the output of the last layer of the encoder to predict the risk score.
+
+## 📌&nbsp;&nbsp;Checkpoints
+The checkpoint to the model is available at [![GoogleDrive](https://img.shields.io/badge/GoogleDrive-Checkpoint-blue)](https://drive.google.com/file/d/1FeFlXNvIrMYjrDgT6jiCqEGfV6ld6Vug/view?usp=sharing)
+
+
