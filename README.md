@@ -7,7 +7,7 @@
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
 <a href="https://github.com/ashleve/lightning-hydra-template"><img alt="Template" src="https://img.shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=gray"></a><br>
 [![Paper](https://img.shields.io/badge/paper-arxiv-red)](https://arxiv.org/abs/2209.05036)
-[![Conference](https://img.shields.io/badge/Conference-MICCAI-informational)](https://conferences.miccai.org/2022/en/)
+[![Conference](https://img.shields.io/badge/Conference-MICCAI-informational)](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_31)
 [![Dataset](https://img.shields.io/badge/Dataset-HECKTOR-blue)](https://www.aicrowd.com/challenges/miccai-2021-hecktor)
  
 _Numan Saeed, Ikboljon Sobirov, Roba Al Majzoub, and Mohammad Yaqub_
