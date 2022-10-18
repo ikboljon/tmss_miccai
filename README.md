@@ -6,7 +6,7 @@
 <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a>
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
 <a href="https://github.com/ashleve/lightning-hydra-template"><img alt="Template" src="https://img.shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=gray"></a><br>
-[![Paper](http://img.shields.io/badge/arxiv.org/abs/2209.05036)](Coming)
+[![Paper](https://img.shields.io/badge/paper-arxiv-red)]([Coming](https://arxiv.org/abs/2209.05036))
 [![Conference](https://img.shields.io/badge/Conference-MICCAI-informational)](https://conferences.miccai.org/2022/en/)
 [![Dataset](https://img.shields.io/badge/Dataset-HECKTOR-blue)](https://www.aicrowd.com/challenges/miccai-2021-hecktor)
  
